@@ -1,0 +1,98 @@
+[
+  {
+    "period": "2023 Q1",
+    "sales": 75971.86,
+    "profit": 4095.15,
+    "orders": 133
+  },
+  {
+    "period": "2023 Q2",
+    "sales": 89284.59,
+    "profit": 11684.99,
+    "orders": 205
+  },
+  {
+    "period": "2023 Q3",
+    "sales": 145535.16,
+    "profit": 13517.37,
+    "orders": 274
+  },
+  {
+    "period": "2023 Q4",
+    "sales": 183248.6,
+    "profit": 22386.79,
+    "orders": 383
+  },
+  {
+    "period": "2024 Q1",
+    "sales": 70391.95,
+    "profit": 9554.66,
+    "orders": 148
+  },
+  {
+    "period": "2024 Q2",
+    "sales": 89239.45,
+    "profit": 12200.19,
+    "orders": 215
+  },
+  {
+    "period": "2024 Q3",
+    "sales": 130449.38,
+    "profit": 16880.3,
+    "orders": 277
+  },
+  {
+    "period": "2024 Q4",
+    "sales": 182912.25,
+    "profit": 23385.82,
+    "orders": 413
+  },
+  {
+    "period": "2025 Q1",
+    "sales": 94840.21,
+    "profit": 11628.49,
+    "orders": 183
+  },
+  {
+    "period": "2025 Q2",
+    "sales": 136809.14,
+    "profit": 16594.68,
+    "orders": 299
+  },
+  {
+    "period": "2025 Q3",
+    "sales": 145538.98,
+    "profit": 16247.49,
+    "orders": 383
+  },
+  {
+    "period": "2025 Q4",
+    "sales": 236745.24,
+    "profit": 38194.55,
+    "orders": 475
+  },
+  {
+    "period": "2026 Q1",
+    "sales": 125288.83,
+    "profit": 23858.6,
+    "orders": 245
+  },
+  {
+    "period": "2026 Q2",
+    "sales": 134990.6,
+    "profit": 15503.91,
+    "orders": 372
+  },
+  {
+    "period": "2026 Q3",
+    "sales": 198183.79,
+    "profit": 27545.38,
+    "orders": 457
+  },
+  {
+    "period": "2026 Q4",
+    "sales": 287104.32,
+    "profit": 29018.46,
+    "orders": 649
+  }
+]

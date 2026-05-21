@@ -1,0 +1,34 @@
+[
+  {
+    "region": "West",
+    "sales": 739813.61,
+    "profit": 110798.82,
+    "margin": 14.98,
+    "orders": 1635,
+    "customers": 686
+  },
+  {
+    "region": "East",
+    "sales": 691828.17,
+    "profit": 94883.26,
+    "margin": 13.71,
+    "orders": 1475,
+    "customers": 685
+  },
+  {
+    "region": "Central",
+    "sales": 503170.67,
+    "profit": 39865.31,
+    "margin": 7.92,
+    "orders": 1179,
+    "customers": 629
+  },
+  {
+    "region": "South",
+    "sales": 391721.91,
+    "profit": 46749.43,
+    "margin": 11.93,
+    "orders": 822,
+    "customers": 512
+  }
+]

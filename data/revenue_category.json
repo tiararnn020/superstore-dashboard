@@ -1,0 +1,23 @@
+[
+  {
+    "category": "Technology",
+    "sales": 839893.28,
+    "profit": 146543.38,
+    "margin": 17.45,
+    "orders": 1560
+  },
+  {
+    "category": "Furniture",
+    "sales": 754747.76,
+    "profit": 19730.0,
+    "margin": 2.61,
+    "orders": 1819
+  },
+  {
+    "category": "Office Supplies",
+    "sales": 731893.31,
+    "profit": 126023.44,
+    "margin": 17.22,
+    "orders": 3812
+  }
+]

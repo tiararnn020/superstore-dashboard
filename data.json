@@ -1,0 +1,1497 @@
+{
+  "name": "Superstore",
+  "children": [
+    {
+      "name": "2023",
+      "value": 494040.21,
+      "children": [
+        {
+          "name": "Q1",
+          "value": 75971.86,
+          "children": [
+            {
+              "name": "Furniture",
+              "value": 23964.22,
+              "children": [
+                {
+                  "name": "Bookcases",
+                  "value": 2716.5
+                },
+                {
+                  "name": "Chairs",
+                  "value": 11006.44
+                },
+                {
+                  "name": "Furnishings",
+                  "value": 1977.82
+                },
+                {
+                  "name": "Tables",
+                  "value": 8263.46
+                }
+              ]
+            },
+            {
+              "name": "Office Supplies",
+              "value": 14535.16,
+              "children": [
+                {
+                  "name": "Appliances",
+                  "value": 905.46
+                },
+                {
+                  "name": "Art",
+                  "value": 663.92
+                },
+                {
+                  "name": "Binders",
+                  "value": 2679.44
+                },
+                {
+                  "name": "Envelopes",
+                  "value": 547.56
+                },
+                {
+                  "name": "Fasteners",
+                  "value": 97.65
+                },
+                {
+                  "name": "Labels",
+                  "value": 255.21
+                },
+                {
+                  "name": "Paper",
+                  "value": 1587.31
+                },
+                {
+                  "name": "Storage",
+                  "value": 7541.36
+                },
+                {
+                  "name": "Supplies",
+                  "value": 257.24
+                }
+              ]
+            },
+            {
+              "name": "Technology",
+              "value": 37472.47,
+              "children": [
+                {
+                  "name": "Accessories",
+                  "value": 3057.81
+                },
+                {
+                  "name": "Machines",
+                  "value": 25314.66
+                },
+                {
+                  "name": "Phones",
+                  "value": 9100.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Q2",
+          "value": 89284.59,
+          "children": [
+            {
+              "name": "Furniture",
+              "value": 29655.57,
+              "children": [
+                {
+                  "name": "Bookcases",
+                  "value": 1708.7
+                },
+                {
+                  "name": "Chairs",
+                  "value": 14732.37
+                },
+                {
+                  "name": "Furnishings",
+                  "value": 2203.94
+                },
+                {
+                  "name": "Tables",
+                  "value": 11010.56
+                }
+              ]
+            },
+            {
+              "name": "Office Supplies",
+              "value": 32054.55,
+              "children": [
+                {
+                  "name": "Appliances",
+                  "value": 3972.3
+                },
+                {
+                  "name": "Art",
+                  "value": 1550.89
+                },
+                {
+                  "name": "Binders",
+                  "value": 10097.85
+                },
+                {
+                  "name": "Envelopes",
+                  "value": 718.11
+                },
+                {
+                  "name": "Fasteners",
+                  "value": 159.55
+                },
+                {
+                  "name": "Labels",
+                  "value": 744.16
+                },
+                {
+                  "name": "Paper",
+                  "value": 2287.03
+                },
+                {
+                  "name": "Storage",
+                  "value": 8242.43
+                },
+                {
+                  "name": "Supplies",
+                  "value": 4282.24
+                }
+              ]
+            },
+            {
+              "name": "Technology",
+              "value": 27574.47,
+              "children": [
+                {
+                  "name": "Accessories",
+                  "value": 3908.52
+                },
+                {
+                  "name": "Copiers",
+                  "value": 2999.93
+                },
+                {
+                  "name": "Machines",
+                  "value": 1322.93
+                },
+                {
+                  "name": "Phones",
+                  "value": 19343.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Q3",
+          "value": 145535.16,
+          "children": [
+            {
+              "name": "Furniture",
+              "value": 41957.88,
+              "children": [
+                {
+                  "name": "Bookcases",
+                  "value": 4676.42
+                },
+                {
+                  "name": "Chairs",
+                  "value": 22804.37
+                },
+                {
+                  "name": "Furnishings",
+                  "value": 4861.34
+                },
+                {
+                  "name": "Tables",
+                  "value": 9615.76
+                }
+              ]
+            },
+            {
+              "name": "Office Supplies",
+              "value": 54996.09,
+              "children": [
+                {
+                  "name": "Appliances",
+                  "value": 4705.68
+                },
+                {
+                  "name": "Art",
+                  "value": 1274.1
+                },
+                {
+                  "name": "Binders",
+                  "value": 20434.48
+                },
+                {
+                  "name": "Envelopes",
+                  "value": 721.57
+                },
+                {
+                  "name": "Fasteners",
+                  "value": 205.7
+                },
+                {
+                  "name": "Labels",
+                  "value": 617.7
+                },
+                {
+                  "name": "Paper",
+                  "value": 4647.06
+                },
+                {
+                  "name": "Storage",
+                  "value": 13596.37
+                },
+                {
+                  "name": "Supplies",
+                  "value": 8793.43
+                }
+              ]
+            },
+            {
+              "name": "Technology",
+              "value": 48581.2,
+              "children": [
+                {
+                  "name": "Accessories",
+                  "value": 7705.98
+                },
+                {
+                  "name": "Copiers",
+                  "value": 4109.93
+                },
+                {
+                  "name": "Machines",
+                  "value": 22420.28
+                },
+                {
+                  "name": "Phones",
+                  "value": 14345.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Q4",
+          "value": 183248.6,
+          "children": [
+            {
+              "name": "Furniture",
+              "value": 66547.14,
+              "children": [
+                {
+                  "name": "Bookcases",
+                  "value": 10935.05
+                },
+                {
+                  "name": "Chairs",
+                  "value": 31439.3
+                },
+                {
+                  "name": "Furnishings",
+                  "value": 6047.01
+                },
+                {
+                  "name": "Tables",
+                  "value": 18125.77
+                }
+              ]
+            },
+            {
+              "name": "Office Supplies",
+              "value": 52428.17,
+              "children": [
+                {
+                  "name": "Appliances",
+                  "value": 6105.78
+                },
+                {
+                  "name": "Art",
+                  "value": 2665.61
+                },
+                {
+                  "name": "Binders",
+                  "value": 11248.5
+                },
+                {
+                  "name": "Envelopes",
+                  "value": 1868.52
+                },
+                {
+                  "name": "Fasteners",
+                  "value": 338.27
+                },
+                {
+                  "name": "Labels",
+                  "value": 1224.32
+                },
+                {
+                  "name": "Paper",
+                  "value": 6800.32
+                },
+                {
+                  "name": "Storage",
+                  "value": 21089.98
+                },
+                {
+                  "name": "Supplies",
+                  "value": 1086.87
+                }
+              ]
+            },
+            {
+              "name": "Technology",
+              "value": 64273.29,
+              "children": [
+                {
+                  "name": "Accessories",
+                  "value": 10341.95
+                },
+                {
+                  "name": "Copiers",
+                  "value": 4939.9
+                },
+                {
+                  "name": "Machines",
+                  "value": 13308.7
+                },
+                {
+                  "name": "Phones",
+                  "value": 35682.73
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2024",
+      "value": 472993.03,
+      "children": [
+        {
+          "name": "Q1",
+          "value": 70391.95,
+          "children": [
+            {
+              "name": "Furniture",
+              "value": 28682.17,
+              "children": [
+                {
+                  "name": "Bookcases",
+                  "value": 4714.19
+                },
+                {
+                  "name": "Chairs",
+                  "value": 10362.05
+                },
+                {
+                  "name": "Furnishings",
+                  "value": 3305.12
+                },
+                {
+                  "name": "Tables",
+                  "value": 10300.82
+                }
+              ]
+            },
+            {
+              "name": "Office Supplies",
+              "value": 23082.03,
+              "children": [
+                {
+                  "name": "Appliances",
+                  "value": 2119.8
+                },
+                {
+                  "name": "Art",
+                  "value": 706.87
+                },
+                {
+                  "name": "Binders",
+                  "value": 11278.93
+                },
+                {
+                  "name": "Envelopes",
+                  "value": 597.35
+                },
+                {
+                  "name": "Fasteners",
+                  "value": 74.24
+                },
+                {
+                  "name": "Labels",
+                  "value": 781.71
+                },
+                {
+                  "name": "Paper",
+                  "value": 2323.31
+                },
+                {
+                  "name": "Storage",
+                  "value": 5077.5
+                },
+                {
+                  "name": "Supplies",
+                  "value": 122.32
+                }
+              ]
+            },
+            {
+              "name": "Technology",
+              "value": 18627.75,
+              "children": [
+                {
+                  "name": "Accessories",
+                  "value": 3149.73
+                },
+                {
+                  "name": "Copiers",
+                  "value": 4269.91
+                },
+                {
+                  "name": "Machines",
+                  "value": 3107.98
+                },
+                {
+                  "name": "Phones",
+                  "value": 8100.13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Q2",
+          "value": 89239.45,
+          "children": [
+            {
+              "name": "Furniture",
+              "value": 27608.73,
+              "children": [
+                {
+                  "name": "Bookcases",
+                  "value": 3275.47
+                },
+                {
+                  "name": "Chairs",
+                  "value": 13915.74
+                },
+                {
+                  "name": "Furnishings",
+                  "value": 7022.31
+                },
+                {
+                  "name": "Tables",
+                  "value": 3395.21
+                }
+              ]
+            },
+            {
+              "name": "Office Supplies",
+              "value": 32391.4,
+              "children": [
+                {
+                  "name": "Appliances",
+                  "value": 6610.73
+                },
+                {
+                  "name": "Art",
+                  "value": 1607.83
+                },
+                {
+                  "name": "Binders",
+                  "value": 11249.53
+                },
+                {
+                  "name": "Envelopes",
+                  "value": 841.79
+                },
+                {
+                  "name": "Fasteners",
+                  "value": 72.27
+                },
+                {
+                  "name": "Labels",
+                  "value": 423.49
+                },
+                {
+                  "name": "Paper",
+                  "value": 2432.76
+                },
+                {
+                  "name": "Storage",
+                  "value": 8621.95
+                },
+                {
+                  "name": "Supplies",
+                  "value": 531.05
+                }
+              ]
+            },
+            {
+              "name": "Technology",
+              "value": 29239.32,
+              "children": [
+                {
+                  "name": "Accessories",
+                  "value": 4600.25
+                },
+                {
+                  "name": "Copiers",
+                  "value": 6379.83
+                },
+                {
+                  "name": "Machines",
+                  "value": 4824.76
+                },
+                {
+                  "name": "Phones",
+                  "value": 13434.48
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Q3",
+          "value": 130449.38,
+          "children": [
+            {
+              "name": "Furniture",
+              "value": 49586.04,
+              "children": [
+                {
+                  "name": "Bookcases",
+                  "value": 17350.56
+                },
+                {
+                  "name": "Chairs",
+                  "value": 18272.5
+                },
+                {
+                  "name": "Furnishings",
+                  "value": 4457.99
+                },
+                {
+                  "name": "Tables",
+                  "value": 9504.99
+                }
+              ]
+            },
+            {
+              "name": "Office Supplies",
+              "value": 35950.61,
+              "children": [
+                {
+                  "name": "Appliances",
+                  "value": 3328.87
+                },
+                {
+                  "name": "Art",
+                  "value": 1763.43
+                },
+                {
+                  "name": "Binders",
+                  "value": 6464.85
+                },
+                {
+                  "name": "Envelopes",
+                  "value": 1180.74
+                },
+                {
+                  "name": "Fasteners",
+                  "value": 136.43
+                },
+                {
+                  "name": "Labels",
+                  "value": 676.6
+                },
+                {
+                  "name": "Paper",
+                  "value": 4028.16
+                },
+                {
+                  "name": "Storage",
+                  "value": 17313.93
+                },
+                {
+                  "name": "Supplies",
+                  "value": 1057.62
+                }
+              ]
+            },
+            {
+              "name": "Technology",
+              "value": 44912.73,
+              "children": [
+                {
+                  "name": "Accessories",
+                  "value": 11973.88
+                },
+                {
+                  "name": "Copiers",
+                  "value": 5119.91
+                },
+                {
+                  "name": "Machines",
+                  "value": 4973.28
+                },
+                {
+                  "name": "Phones",
+                  "value": 22845.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Q4",
+          "value": 182912.25,
+          "children": [
+            {
+              "name": "Furniture",
+              "value": 66453.36,
+              "children": [
+                {
+                  "name": "Bookcases",
+                  "value": 13203.36
+                },
+                {
+                  "name": "Chairs",
+                  "value": 30123.68
+                },
+                {
+                  "name": "Furnishings",
+                  "value": 7157.32
+                },
+                {
+                  "name": "Tables",
+                  "value": 15969.0
+                }
+              ]
+            },
+            {
+              "name": "Office Supplies",
+              "value": 46246.17,
+              "children": [
+                {
+                  "name": "Appliances",
+                  "value": 11189.17
+                },
+                {
+                  "name": "Art",
+                  "value": 2283.89
+                },
+                {
+                  "name": "Binders",
+                  "value": 8669.91
+                },
+                {
+                  "name": "Envelopes",
+                  "value": 1928.75
+                },
+                {
+                  "name": "Fasteners",
+                  "value": 284.49
+                },
+                {
+                  "name": "Labels",
+                  "value": 1074.66
+                },
+                {
+                  "name": "Paper",
+                  "value": 6532.25
+                },
+                {
+                  "name": "Storage",
+                  "value": 14041.56
+                },
+                {
+                  "name": "Supplies",
+                  "value": 241.49
+                }
+              ]
+            },
+            {
+              "name": "Technology",
+              "value": 70212.73,
+              "children": [
+                {
+                  "name": "Accessories",
+                  "value": 20800.1
+                },
+                {
+                  "name": "Copiers",
+                  "value": 10409.79
+                },
+                {
+                  "name": "Machines",
+                  "value": 14857.69
+                },
+                {
+                  "name": "Phones",
+                  "value": 24145.15
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2025",
+      "value": 613933.58,
+      "children": [
+        {
+          "name": "Q1",
+          "value": 94840.22,
+          "children": [
+            {
+              "name": "Furniture",
+              "value": 25729.76,
+              "children": [
+                {
+                  "name": "Bookcases",
+                  "value": 3643.66
+                },
+                {
+                  "name": "Chairs",
+                  "value": 10263.87
+                },
+                {
+                  "name": "Furnishings",
+                  "value": 4591.13
+                },
+                {
+                  "name": "Tables",
+                  "value": 7231.1
+                }
+              ]
+            },
+            {
+              "name": "Office Supplies",
+              "value": 29454.12,
+              "children": [
+                {
+                  "name": "Appliances",
+                  "value": 3274.5
+                },
+                {
+                  "name": "Art",
+                  "value": 852.68
+                },
+                {
+                  "name": "Binders",
+                  "value": 3541.99
+                },
+                {
+                  "name": "Envelopes",
+                  "value": 1081.94
+                },
+                {
+                  "name": "Fasteners",
+                  "value": 88.12
+                },
+                {
+                  "name": "Labels",
+                  "value": 132.37
+                },
+                {
+                  "name": "Paper",
+                  "value": 2740.7
+                },
+                {
+                  "name": "Storage",
+                  "value": 8848.1
+                },
+                {
+                  "name": "Supplies",
+                  "value": 8893.72
+                }
+              ]
+            },
+            {
+              "name": "Technology",
+              "value": 39656.33,
+              "children": [
+                {
+                  "name": "Accessories",
+                  "value": 4890.93
+                },
+                {
+                  "name": "Copiers",
+                  "value": 959.97
+                },
+                {
+                  "name": "Machines",
+                  "value": 17744.49
+                },
+                {
+                  "name": "Phones",
+                  "value": 16060.95
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Q2",
+          "value": 136809.15,
+          "children": [
+            {
+              "name": "Furniture",
+              "value": 41681.86,
+              "children": [
+                {
+                  "name": "Bookcases",
+                  "value": 4232.93
+                },
+                {
+                  "name": "Chairs",
+                  "value": 19177.28
+                },
+                {
+                  "name": "Furnishings",
+                  "value": 5269.22
+                },
+                {
+                  "name": "Tables",
+                  "value": 13002.43
+                }
+              ]
+            },
+            {
+              "name": "Office Supplies",
+              "value": 35031.94,
+              "children": [
+                {
+                  "name": "Appliances",
+                  "value": 4327.45
+                },
+                {
+                  "name": "Art",
+                  "value": 1545.12
+                },
+                {
+                  "name": "Binders",
+                  "value": 5006.76
+                },
+                {
+                  "name": "Envelopes",
+                  "value": 416.81
+                },
+                {
+                  "name": "Fasteners",
+                  "value": 151.21
+                },
+                {
+                  "name": "Labels",
+                  "value": 572.29
+                },
+                {
+                  "name": "Paper",
+                  "value": 6724.06
+                },
+                {
+                  "name": "Storage",
+                  "value": 13842.76
+                },
+                {
+                  "name": "Supplies",
+                  "value": 2445.49
+                }
+              ]
+            },
+            {
+              "name": "Technology",
+              "value": 60095.35,
+              "children": [
+                {
+                  "name": "Accessories",
+                  "value": 7222.56
+                },
+                {
+                  "name": "Copiers",
+                  "value": 10439.94
+                },
+                {
+                  "name": "Machines",
+                  "value": 24273.4
+                },
+                {
+                  "name": "Phones",
+                  "value": 18159.45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Q3",
+          "value": 145538.98,
+          "children": [
+            {
+              "name": "Furniture",
+              "value": 52926.22,
+              "children": [
+                {
+                  "name": "Bookcases",
+                  "value": 9759.86
+                },
+                {
+                  "name": "Chairs",
+                  "value": 21603.69
+                },
+                {
+                  "name": "Furnishings",
+                  "value": 6402.91
+                },
+                {
+                  "name": "Tables",
+                  "value": 15159.76
+                }
+              ]
+            },
+            {
+              "name": "Office Supplies",
+              "value": 46787.95,
+              "children": [
+                {
+                  "name": "Appliances",
+                  "value": 7875.71
+                },
+                {
+                  "name": "Art",
+                  "value": 1909.35
+                },
+                {
+                  "name": "Binders",
+                  "value": 14061.08
+                },
+                {
+                  "name": "Envelopes",
+                  "value": 1586.7
+                },
+                {
+                  "name": "Fasteners",
+                  "value": 248.11
+                },
+                {
+                  "name": "Labels",
+                  "value": 826.34
+                },
+                {
+                  "name": "Paper",
+                  "value": 5070.83
+                },
+                {
+                  "name": "Storage",
+                  "value": 14466.59
+                },
+                {
+                  "name": "Supplies",
+                  "value": 743.24
+                }
+              ]
+            },
+            {
+              "name": "Technology",
+              "value": 45824.81,
+              "children": [
+                {
+                  "name": "Accessories",
+                  "value": 12445.41
+                },
+                {
+                  "name": "Copiers",
+                  "value": 11619.72
+                },
+                {
+                  "name": "Machines",
+                  "value": 3309.52
+                },
+                {
+                  "name": "Phones",
+                  "value": 18450.16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Q4",
+          "value": 236745.24,
+          "children": [
+            {
+              "name": "Furniture",
+              "value": 80641.89,
+              "children": [
+                {
+                  "name": "Bookcases",
+                  "value": 8790.42
+                },
+                {
+                  "name": "Chairs",
+                  "value": 34034.59
+                },
+                {
+                  "name": "Furnishings",
+                  "value": 12374.75
+                },
+                {
+                  "name": "Tables",
+                  "value": 25442.12
+                }
+              ]
+            },
+            {
+              "name": "Office Supplies",
+              "value": 75099.68,
+              "children": [
+                {
+                  "name": "Appliances",
+                  "value": 10686.58
+                },
+                {
+                  "name": "Art",
+                  "value": 1812.62
+                },
+                {
+                  "name": "Binders",
+                  "value": 28970.3
+                },
+                {
+                  "name": "Envelopes",
+                  "value": 1659.96
+                },
+                {
+                  "name": "Fasteners",
+                  "value": 514.49
+                },
+                {
+                  "name": "Labels",
+                  "value": 1379.16
+                },
+                {
+                  "name": "Paper",
+                  "value": 6193.22
+                },
+                {
+                  "name": "Storage",
+                  "value": 21688.22
+                },
+                {
+                  "name": "Supplies",
+                  "value": 2195.12
+                }
+              ]
+            },
+            {
+              "name": "Technology",
+              "value": 81003.67,
+              "children": [
+                {
+                  "name": "Accessories",
+                  "value": 17336.96
+                },
+                {
+                  "name": "Copiers",
+                  "value": 26579.78
+                },
+                {
+                  "name": "Machines",
+                  "value": 10579.48
+                },
+                {
+                  "name": "Phones",
+                  "value": 26507.46
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2026",
+      "value": 745567.53,
+      "children": [
+        {
+          "name": "Q1",
+          "value": 125288.83,
+          "children": [
+            {
+              "name": "Furniture",
+              "value": 25264.54,
+              "children": [
+                {
+                  "name": "Bookcases",
+                  "value": 3424.13
+                },
+                {
+                  "name": "Chairs",
+                  "value": 12400.99
+                },
+                {
+                  "name": "Furnishings",
+                  "value": 3152.04
+                },
+                {
+                  "name": "Tables",
+                  "value": 6287.38
+                }
+              ]
+            },
+            {
+              "name": "Office Supplies",
+              "value": 43626.09,
+              "children": [
+                {
+                  "name": "Appliances",
+                  "value": 8543.1
+                },
+                {
+                  "name": "Art",
+                  "value": 1200.89
+                },
+                {
+                  "name": "Binders",
+                  "value": 13159.15
+                },
+                {
+                  "name": "Envelopes",
+                  "value": 848.13
+                },
+                {
+                  "name": "Fasteners",
+                  "value": 136.6
+                },
+                {
+                  "name": "Labels",
+                  "value": 277.36
+                },
+                {
+                  "name": "Paper",
+                  "value": 4736.41
+                },
+                {
+                  "name": "Storage",
+                  "value": 8668.27
+                },
+                {
+                  "name": "Supplies",
+                  "value": 6056.18
+                }
+              ]
+            },
+            {
+              "name": "Technology",
+              "value": 56398.2,
+              "children": [
+                {
+                  "name": "Accessories",
+                  "value": 8515.35
+                },
+                {
+                  "name": "Copiers",
+                  "value": 24319.77
+                },
+                {
+                  "name": "Machines",
+                  "value": 5089.34
+                },
+                {
+                  "name": "Phones",
+                  "value": 18473.73
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Q2",
+          "value": 134990.6,
+          "children": [
+            {
+              "name": "Furniture",
+              "value": 45814.86,
+              "children": [
+                {
+                  "name": "Bookcases",
+                  "value": 11277.21
+                },
+                {
+                  "name": "Chairs",
+                  "value": 20249.59
+                },
+                {
+                  "name": "Furnishings",
+                  "value": 5873.76
+                },
+                {
+                  "name": "Tables",
+                  "value": 8414.3
+                }
+              ]
+            },
+            {
+              "name": "Office Supplies",
+              "value": 45821.47,
+              "children": [
+                {
+                  "name": "Appliances",
+                  "value": 6389.08
+                },
+                {
+                  "name": "Art",
+                  "value": 2277.39
+                },
+                {
+                  "name": "Binders",
+                  "value": 10271.18
+                },
+                {
+                  "name": "Envelopes",
+                  "value": 578.4
+                },
+                {
+                  "name": "Fasteners",
+                  "value": 100.18
+                },
+                {
+                  "name": "Labels",
+                  "value": 760.22
+                },
+                {
+                  "name": "Paper",
+                  "value": 5636.34
+                },
+                {
+                  "name": "Storage",
+                  "value": 18431.28
+                },
+                {
+                  "name": "Supplies",
+                  "value": 1377.39
+                }
+              ]
+            },
+            {
+              "name": "Technology",
+              "value": 43354.27,
+              "children": [
+                {
+                  "name": "Accessories",
+                  "value": 10741.87
+                },
+                {
+                  "name": "Copiers",
+                  "value": 3359.95
+                },
+                {
+                  "name": "Machines",
+                  "value": 11905.33
+                },
+                {
+                  "name": "Phones",
+                  "value": 17347.13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Q3",
+          "value": 198183.79,
+          "children": [
+            {
+              "name": "Furniture",
+              "value": 57014.41,
+              "children": [
+                {
+                  "name": "Bookcases",
+                  "value": 5796.22
+                },
+                {
+                  "name": "Chairs",
+                  "value": 30963.31
+                },
+                {
+                  "name": "Furnishings",
+                  "value": 7857.72
+                },
+                {
+                  "name": "Tables",
+                  "value": 12397.15
+                }
+              ]
+            },
+            {
+              "name": "Office Supplies",
+              "value": 73318.68,
+              "children": [
+                {
+                  "name": "Appliances",
+                  "value": 11516.73
+                },
+                {
+                  "name": "Art",
+                  "value": 2612.81
+                },
+                {
+                  "name": "Binders",
+                  "value": 28035.54
+                },
+                {
+                  "name": "Envelopes",
+                  "value": 588.7
+                },
+                {
+                  "name": "Fasteners",
+                  "value": 240.22
+                },
+                {
+                  "name": "Labels",
+                  "value": 1944.14
+                },
+                {
+                  "name": "Paper",
+                  "value": 8442.82
+                },
+                {
+                  "name": "Storage",
+                  "value": 14414.35
+                },
+                {
+                  "name": "Supplies",
+                  "value": 5523.37
+                }
+              ]
+            },
+            {
+              "name": "Technology",
+              "value": 67850.69,
+              "children": [
+                {
+                  "name": "Accessories",
+                  "value": 22277.64
+                },
+                {
+                  "name": "Copiers",
+                  "value": 4979.87
+                },
+                {
+                  "name": "Machines",
+                  "value": 6008.86
+                },
+                {
+                  "name": "Phones",
+                  "value": 34584.32
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Q4",
+          "value": 287104.32,
+          "children": [
+            {
+              "name": "Furniture",
+              "value": 91219.12,
+              "children": [
+                {
+                  "name": "Bookcases",
+                  "value": 9856.51
+                },
+                {
+                  "name": "Chairs",
+                  "value": 34418.49
+                },
+                {
+                  "name": "Furnishings",
+                  "value": 13043.75
+                },
+                {
+                  "name": "Tables",
+                  "value": 33900.37
+                }
+              ]
+            },
+            {
+              "name": "Office Supplies",
+              "value": 91069.2,
+              "children": [
+                {
+                  "name": "Appliances",
+                  "value": 16662.25
+                },
+                {
+                  "name": "Art",
+                  "value": 2931.6
+                },
+                {
+                  "name": "Binders",
+                  "value": 22185.4
+                },
+                {
+                  "name": "Envelopes",
+                  "value": 1363.34
+                },
+                {
+                  "name": "Fasteners",
+                  "value": 5684.72
+                },
+                {
+                  "name": "Labels",
+                  "value": 1005.3
+                },
+                {
+                  "name": "Paper",
+                  "value": 9357.95
+                },
+                {
+                  "name": "Storage",
+                  "value": 28759.9
+                },
+                {
+                  "name": "Supplies",
+                  "value": 3118.72
+                }
+              ]
+            },
+            {
+              "name": "Technology",
+              "value": 104816.0,
+              "children": [
+                {
+                  "name": "Accessories",
+                  "value": 18411.38
+                },
+                {
+                  "name": "Copiers",
+                  "value": 30257.07
+                },
+                {
+                  "name": "Machines",
+                  "value": 20884.34
+                },
+                {
+                  "name": "Phones",
+                  "value": 35263.21
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
