@@ -4,7 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Dashboard Superstore</title>
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://api.fontshare.com/v2/css?f[]=clash-display@600,700&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <style>
@@ -81,7 +82,7 @@ nav {
 nav::-webkit-scrollbar { height: 0; }
 
 .brand {
-  font-family: 'Syne', sans-serif;
+  font-family: 'Clash Display', sans-serif;
   font-size: 16px; font-weight: 800;
   background: linear-gradient(90deg, var(--cyan), var(--violet));
   -webkit-background-clip: text; -webkit-text-fill-color: transparent;
@@ -142,7 +143,7 @@ nav button.active {
   font-weight: 700; opacity: .8;
 }
 .sec-head h2 {
-  font-family: 'Syne', sans-serif;
+  font-family: 'Clash Display', sans-serif;
   font-size: 34px; font-weight: 800;
   background: linear-gradient(100deg, #dde8ff 30%, var(--sky) 80%);
   -webkit-background-clip: text; -webkit-text-fill-color: transparent;
@@ -163,7 +164,7 @@ nav button.active {
 .insight strong { color: var(--cyan); }
 
 /* ══ COVER ══════════════════════════════════════════ */
-#pembuka {
+#intro {
   min-height: calc(100vh - 50px);
   display: flex; align-items: center;
 }
@@ -185,7 +186,7 @@ nav button.active {
 }
 
 .cover-title {
-  font-family: 'Syne', sans-serif;
+  font-family: 'Clash Display', sans-serif;
   font-size: 58px; font-weight: 800; line-height: 1.05;
 }
 .cover-title .line1 { color: var(--text); }
@@ -202,8 +203,8 @@ nav button.active {
 }
 
 .cover-meta {
-  display: grid; grid-template-columns: repeat(3,1fr);
-  gap: 12px; margin-top: 8px;
+  display: grid; grid-template-columns: repeat(2,1fr);
+  gap: 10px; margin-top: 8px;
 }
 .meta-item {
   padding: 14px 16px;
@@ -237,23 +238,24 @@ nav button.active {
   background: rgba(14,14,52,0.7);
   backdrop-filter:blur(12px);
 }
-.cover-badge .big { font-family:'Syne',sans-serif; font-size:42px; font-weight:800; color:var(--cyan); }
+.cover-badge .big { font-family:'Clash Display', sans-serif; font-size:42px; font-weight:700; color:var(--cyan); }
 .cover-badge .small { font-size:12px; color:var(--muted); letter-spacing:1px; margin-top:2px; }
 
 /* ══ KPI ════════════════════════════════════════════ */
 .kpi-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+  grid-template-columns: repeat(auto-fit, minmax(180px,1fr));
   gap: 16px; margin-bottom: 28px;
 }
 .kpi-card {
-  padding: 22px 24px;
+  padding: 20px 18px;
   background: linear-gradient(135deg, rgba(20,20,70,0.8), rgba(10,20,60,0.6));
   border: 1px solid var(--border);
   border-radius: 14px;
   backdrop-filter: blur(12px);
   position: relative; overflow: hidden;
   transition: transform .2s, border-color .2s;
+  min-width: 0;
 }
 .kpi-card:hover { transform:translateY(-2px); border-color: var(--border2); }
 .kpi-card::before {
@@ -270,9 +272,10 @@ nav button.active {
 
 .kpi-label { font-size:11px;text-transform:uppercase;letter-spacing:1.5px;color:var(--muted);margin-bottom:10px; }
 .kpi-val {
-  font-family:'Syne',sans-serif; font-size:30px; font-weight:800;
+  font-family:'Clash Display', sans-serif; font-size:26px; font-weight:700;
   background:linear-gradient(100deg,#dde8ff,var(--sky));
   -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+  word-break: break-all; line-height: 1.2;
 }
 .kpi-card.c1 .kpi-val { background:linear-gradient(100deg,var(--cyan),var(--mint)); -webkit-background-clip:text;background-clip:text; }
 .kpi-card.c2 .kpi-val { background:linear-gradient(100deg,var(--sky),var(--blue)); -webkit-background-clip:text;background-clip:text; }
@@ -291,7 +294,7 @@ nav button.active {
   backdrop-filter: blur(14px);
 }
 .chart-card h3 {
-  font-family:'Syne',sans-serif; font-size:17px; font-weight:700;
+  font-family:'Clash Display', sans-serif; font-size:17px; font-weight:700;
   color:var(--text); margin-bottom:3px;
 }
 .chart-sub { font-size:12px;color:var(--muted);margin-bottom:20px; }
@@ -399,7 +402,7 @@ nav button.active {
   backdrop-filter:blur(10px);
 }
 .finding-num {
-  font-family:'Syne',sans-serif;font-size:40px;font-weight:800;
+  font-family:'Clash Display', sans-serif; font-size:40px; font-weight:700;
   line-height:1;margin-bottom:10px;
   background:linear-gradient(90deg,var(--cyan),var(--indigo));
   -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
@@ -443,7 +446,7 @@ nav button.active {
 <!-- ══ NAV ════════════════════════════════════════════ -->
 <nav>
   <div class="brand">SUPERSTORE</div>
-  <button class="active" onclick="showTab('pembuka',this)">Pembuka</button>
+  <button class="active" onclick="showTab('intro',this)">Intro</button>
   <button onclick="showTab('overview',this)">Overview</button>
   <button onclick="showTab('tren',this)">Tren Revenue</button>
   <button onclick="showTab('kategori',this)">Per Kategori</button>
@@ -454,7 +457,7 @@ nav button.active {
 </nav>
 
 <!-- ══ SECTION 1: PEMBUKA ══════════════════════════════ -->
-<section id="pembuka" class="section active">
+<section id="intro" class="section active">
   <div class="cover-inner">
     <div class="cover-left">
       <span class="cover-eyebrow">Data Visualization Dashboard</span>
@@ -668,7 +671,6 @@ const COOL = {
   mint:   'rgba(67,255,203,',
 };
 
-/* ── Tab nav ──────────────────────────────────── */
 let radialBuilt = false;
 function showTab(id, btn) {
   document.querySelectorAll('.section').forEach(s=>s.classList.remove('active'));
