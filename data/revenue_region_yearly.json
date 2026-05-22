@@ -1,0 +1,162 @@
+[
+  {
+    "region": "Central",
+    "year": 2023,
+    "sales": 103838.16,
+    "profit": 539.55,
+    "margin": 0.52,
+    "orders": 230,
+    "customers": 204,
+    "aov": 451.47
+  },
+  {
+    "region": "Central",
+    "year": 2024,
+    "sales": 102874.22,
+    "profit": 11716.8,
+    "margin": 11.39,
+    "orders": 234,
+    "customers": 201,
+    "aov": 439.63
+  },
+  {
+    "region": "Central",
+    "year": 2025,
+    "sales": 148604.69,
+    "profit": 20036.76,
+    "margin": 13.48,
+    "orders": 307,
+    "customers": 262,
+    "aov": 484.05
+  },
+  {
+    "region": "Central",
+    "year": 2026,
+    "sales": 147853.6,
+    "profit": 7572.19,
+    "margin": 5.12,
+    "orders": 408,
+    "customers": 326,
+    "aov": 362.39
+  },
+  {
+    "region": "East",
+    "year": 2023,
+    "sales": 135439.83,
+    "profit": 19011.14,
+    "margin": 14.04,
+    "orders": 281,
+    "customers": 238,
+    "aov": 481.99
+  },
+  {
+    "region": "East",
+    "year": 2024,
+    "sales": 157071.42,
+    "profit": 21189.05,
+    "margin": 13.49,
+    "orders": 307,
+    "customers": 251,
+    "aov": 511.63
+  },
+  {
+    "region": "East",
+    "year": 2025,
+    "sales": 182749.87,
+    "profit": 20602.63,
+    "margin": 11.27,
+    "orders": 391,
+    "customers": 319,
+    "aov": 467.39
+  },
+  {
+    "region": "East",
+    "year": 2026,
+    "sales": 216567.04,
+    "profit": 34080.43,
+    "margin": 15.74,
+    "orders": 496,
+    "customers": 367,
+    "aov": 436.63
+  },
+  {
+    "region": "South",
+    "year": 2023,
+    "sales": 103845.84,
+    "profit": 11879.12,
+    "margin": 11.44,
+    "orders": 165,
+    "customers": 156,
+    "aov": 629.37
+  },
+  {
+    "region": "South",
+    "year": 2024,
+    "sales": 71359.98,
+    "profit": 8318.59,
+    "margin": 11.66,
+    "orders": 170,
+    "customers": 155,
+    "aov": 419.76
+  },
+  {
+    "region": "South",
+    "year": 2025,
+    "sales": 93610.22,
+    "profit": 17702.81,
+    "margin": 18.91,
+    "orders": 214,
+    "customers": 186,
+    "aov": 437.43
+  },
+  {
+    "region": "South",
+    "year": 2026,
+    "sales": 122905.86,
+    "profit": 8848.91,
+    "margin": 7.2,
+    "orders": 273,
+    "customers": 223,
+    "aov": 450.2
+  },
+  {
+    "region": "West",
+    "year": 2023,
+    "sales": 150916.37,
+    "profit": 20254.48,
+    "margin": 13.42,
+    "orders": 319,
+    "customers": 271,
+    "aov": 473.09
+  },
+  {
+    "region": "West",
+    "year": 2024,
+    "sales": 141687.41,
+    "profit": 20796.52,
+    "margin": 14.68,
+    "orders": 342,
+    "customers": 277,
+    "aov": 414.29
+  },
+  {
+    "region": "West",
+    "year": 2025,
+    "sales": 188968.79,
+    "profit": 24323.0,
+    "margin": 12.87,
+    "orders": 428,
+    "customers": 330,
+    "aov": 441.52
+  },
+  {
+    "region": "West",
+    "year": 2026,
+    "sales": 258241.03,
+    "profit": 45424.81,
+    "margin": 17.59,
+    "orders": 546,
+    "customers": 397,
+    "aov": 472.97
+  }
+]

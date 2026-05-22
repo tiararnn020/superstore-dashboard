@@ -162,4 +162,28 @@ with open('data/revenue_subcategory.json', 'w') as f:
     json.dump(revenue_subcategory, f, indent=2)
 print("✓ revenue_subcategory.json")
 
+# ── 9. REVENUE PER REGION PER TAHUN (untuk tren & scatter) ──
+rry = df.groupby(['Region', 'Year']).agg(
+    sales=('Sales', 'sum'),
+    profit=('Profit', 'sum'),
+    orders=('Order ID', 'nunique'),
+    customers=('Customer ID', 'nunique')
+).reset_index()
+
+revenue_region_yearly = []
+for _, row in rry.iterrows():
+    revenue_region_yearly.append({
+        "region":    row['Region'],
+        "year":      int(row['Year']),
+        "sales":     round(row['sales'], 2),
+        "profit":    round(row['profit'], 2),
+        "margin":    round(row['profit'] / row['sales'] * 100, 2),
+        "orders":    int(row['orders']),
+        "customers": int(row['customers']),
+        "aov":       round(row['sales'] / row['orders'], 2)
+    })
+with open('data/revenue_region_yearly.json', 'w') as f:
+    json.dump(revenue_region_yearly, f, indent=2)
+print("✓ revenue_region_yearly.json")
+
 print("\n✅ Semua file JSON berhasil dibuat di folder data/")
